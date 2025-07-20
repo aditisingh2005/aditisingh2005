@@ -21,7 +21,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Aditi Singh</h1>
-<h3 align="center">Cloud • AI • Analytics | B.Tech Final Year | AWS + Azure + Python + Power BI</h3>
+<h3 align="center">    Cloud • AI • Analytics | B.Tech Final Year | AWS + Azure + Python + Power BI</h3>
 
 ---
 
