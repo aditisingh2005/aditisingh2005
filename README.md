@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Cloud+Engineer+%7C+AI+Engineer+%7C+Data+Analyst;Final+Year+B.Tech+Student+%7C+Python+%7C+Power+BI;Welcome+to+my+GitHub+Portfolio!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines= Cloud+Engineer+%7C+AI+Engineer+%7C+Data+Analyst; Final+Year+B.Tech+Student+%7C+Python+%7C+Power+BI;Welcome+to+my+GitHub+Portfolio!" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Aditi Singh</h1>
