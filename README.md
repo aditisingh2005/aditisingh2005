@@ -68,10 +68,13 @@ Real-time hand gesture recognition for emotional and communication-based voice f
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AditiSingh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditi-singh-link/)
-[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:aditi.singh@gmail.com)
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditi%20Singh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditi-singh-1b95602a3/)
+[![Email](https://img.shields.io/badge/Gmail-aditiamitsingh2%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:aditiamitsingh2@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-aditi_.singh-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/aditi_.singh)
 ![Profile Views](https://komarev.com/ghpvc/?username=AditiSinghGithub&label=Profile%20Views&color=blue&style=flat)
+
 
 ---
 
