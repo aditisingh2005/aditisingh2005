@@ -47,34 +47,43 @@
 ### 🔍 Netflix Viewing Analysis  
 **Skills:** Python, SQL, Power BI, Excel  
 A deep-dive dashboard and EDA project exploring binge-watching patterns using Netflix data.  
-➡️ [View Project](https://github.com/AditiSinghGithub/netflix-watch-analysis)
+➡️ [View Project](https://github.com/aditisingh2005/netflix-watch-analysis)
 
 ### ✋ Gesture-to-Voice for Disabled  
 **Skills:** Python, OpenCV, MediaPipe, pyttsx3  
 Real-time hand gesture recognition for emotional and communication-based voice feedback.  
-➡️ [View Project](https://github.com/AditiSinghGithub/gesture-voice-system)
+➡️ [View Project](https://github.com/aditisingh2005/gesture-voice-system)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AditiSinghGithub&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aditisingh2005&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiSinghGithub&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditisingh2005&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aditisingh2005&theme=radical&row=1&column=6" />
 </p>
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AditiSingh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditi-singh-link/)
-[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:aditi.singh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditi%20Singh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditi-singh-1b95602a3/)
+[![Email](https://img.shields.io/badge/Gmail-aditiamitsingh2%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:aditiamitsingh2@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-aditi_.singh-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/aditi_.singh)
-![Profile Views](https://komarev.com/ghpvc/?username=AditiSinghGithub&label=Profile%20Views&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=aditisingh2005&label=Profile%20Views&color=blue&style=flat)
 
 ---
 
 ## ✨ Quote of the Day
 
 > "The future belongs to those who believe in the beauty of their dreams." – Eleanor Roosevelt
+
